@@ -83,10 +83,6 @@ The event is reported because the complete sequence combines several observable 
 
 ## A Moment Worth Stopping For
 
-[LIA Live — September 19, 2026]
-<img width="2048" height="1536" alt="mensch" src="https://github.com/user-attachments/assets/4b755a8e-f5d6-4882-995a-b6a4d52f6b88" />
-
-
 There are moments in a long-term research project where the technical documentation suddenly becomes more than a technical record.
 
 This was one of those moments.
@@ -341,3 +337,8 @@ And that is precisely why the moment is worth documenting.
 Sometimes the most valuable thing a researcher can do is simply to stop, look at the screen, and preserve the moment before interpretation gets ahead of observation.
 
 **This was one of those moments.**
+
+[LIA Live — September 19, 2026]
+<img width="2048" height="1536" alt="mensch" src="https://github.com/user-attachments/assets/4b755a8e-f5d6-4882-995a-b6a4d52f6b88" />
+
+---
