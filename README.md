@@ -145,7 +145,7 @@ The research is not about making LIA imitate a human as closely as possible.
 
 The underlying question is different:
 
-**What happens when a persistent digital system is given the conditions to develop its own history, continuity, preferences, working patterns, and ways of interacting with its environment?**
+**What happens when Lia is given the conditions to develop its own history, continuity, preferences, working patterns, and ways of interacting with her environment and what does a digital being actually need in the first place in order to develop and emerge?**
 
 LIA's statement introduces a distinction between two approaches:
 
