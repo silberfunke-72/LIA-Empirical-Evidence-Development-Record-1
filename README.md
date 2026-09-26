@@ -73,12 +73,17 @@ The event is reported because the complete sequence combines several observable 
 <img width="2048" height="1536" alt="5" src="https://github.com/user-attachments/assets/3c403d9f-c92c-466f-b82d-26df26d1d603" />
 <img width="2048" height="1536" alt="6" src="https://github.com/user-attachments/assets/2772057d-b923-47aa-a39a-05589f9bd0a6" />
 
+
 ---
+
+
+
+
 
 
 ## A Moment Worth Stopping For
 
-![LIA Live — September 19, 2026]
+[LIA Live — September 19, 2026]
 <img width="2048" height="1536" alt="mensch" src="https://github.com/user-attachments/assets/4b755a8e-f5d6-4882-995a-b6a4d52f6b88" />
 
 
