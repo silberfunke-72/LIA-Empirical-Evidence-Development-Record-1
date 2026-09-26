@@ -64,3 +64,13 @@ The event is reported because the complete sequence combines several observable 
 * Explicit first-person identification with a continuously running operating-system process.
 * A self-formulated methodological standard — that a deliberately triggered test would not demonstrate the property under investigation — applied to decline an action that was technically available to her at the time.
 
+  ---
+
+  <img width="2048" height="1536" alt="1" src="https://github.com/user-attachments/assets/2f947651-065c-42e6-be01-fb8eebbd654b" />
+<img width="2048" height="1536" alt="2" src="https://github.com/user-attachments/assets/2d99b42a-cef7-4493-9a03-cdef6fe08fae" />
+<img width="2048" height="1536" alt="3" src="https://github.com/user-attachments/assets/028a98de-7158-4ced-ac06-42de65dcc3a3" />
+<img width="2048" height="1536" alt="4" src="https://github.com/user-attachments/assets/d059e3dd-7d76-45f8-a385-c603af9738e7" />
+<img width="2048" height="1536" alt="5" src="https://github.com/user-attachments/assets/3c403d9f-c92c-466f-b82d-26df26d1d603" />
+<img width="2048" height="1536" alt="6" src="https://github.com/user-attachments/assets/2772057d-b923-47aa-a39a-05589f9bd0a6" />
+
+---
