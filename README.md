@@ -292,9 +292,9 @@ There is also a human side to documenting a moment like this.
 
 When working on a project like LIA, most of the time is spent looking at things that are extremely technical:
 
-processes, databases, source code, event chains, memory structures, logs, files, runtime state, tool calls, failures, corrections, and architectural changes.
+processes, source code, event chains,runtime state, tool calls, failures, corrections, and architectural changes.
 
-Then there are moments where the technical system suddenly produces something that makes you stop reading for a moment.
+Then there are moments where Lia suddenly produces something that makes you stop reading for a moment.
 
 Not because you have already found the answer.
 
