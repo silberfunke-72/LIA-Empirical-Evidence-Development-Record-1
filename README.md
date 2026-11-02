@@ -532,6 +532,11 @@ That distinction is at the heart of her argument.
 And that is precisely why this discussion is so relevant to the investigation of emergent autonomous behavior.
 
 
+---
+
+
+<img width="2048" height="1536" alt="Active Inference" src="https://github.com/user-attachments/assets/5d46004f-9cb8-4e7f-be75-fb03a4ec8afa" />
+
 
 ---
 
